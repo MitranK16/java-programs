@@ -13,7 +13,7 @@ public class File {
             = "Hello";
 
         Path fileName = Path.of(
-            "/Users/mayanksolanki/Desktop/javafile.docx");
+            "/Users/mitrankumar/Desktop/javafile.docx");
  
 
         Files.writeString(fileName, text);
